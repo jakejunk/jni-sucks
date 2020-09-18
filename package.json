@@ -5,7 +5,8 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "server-run": "cd server && gradle run"
+    "server-run": "cd server && gradle run",
+    "server-unit-test": "cd server && gradle cleanTest test --no-build-cache"
   },
   "author": "",
   "license": "MIT"
