@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "noImplicitReturns": true,
+        "noEmitOnError": true,
+        "preserveConstEnums": false,
+        "removeComments": false,
+        "sourceMap": true,
+        "strict": true,
+        "stripInternal": true,
+        "target": "es2017"
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -5,5 +5,8 @@
     },
     "forwardPorts": [
         8080
+    ],
+    "extensions": [
+        "mathiasfrohlich.kotlin"
     ]
 }
