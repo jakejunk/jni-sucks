@@ -1,0 +1,12 @@
+{
+  "name": "jni-sucks",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "server-run": "cd server && gradle run"
+  },
+  "author": "",
+  "license": "MIT"
+}
